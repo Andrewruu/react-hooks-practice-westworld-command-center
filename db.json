@@ -7,7 +7,7 @@
       "active": false,
       "imageUrl": "https://vignette.wikia.nocookie.net/westworld/images/5/51/Dolores_Abernathy_Vanishing_Point.jpg/revision/latest?cb=20180613181613",
       "gender": "Female",
-      "area": "lowlands",
+      "area": "python_pass",
       "authorized": false
     },
     {
@@ -64,10 +64,10 @@
       "id": 7,
       "firstName": "Akane",
       "lastName": "n/a",
-      "active": false,
+      "active": true,
       "imageUrl": "https://vignette.wikia.nocookie.net/westworld/images/f/f3/Akane.jpg/revision/latest/scale-to-width-down/310?cb=20180520132523",
       "gender": "Female",
-      "area": "lowlands",
+      "area": "python_pass",
       "authorized": false
     },
     {
@@ -84,10 +84,10 @@
       "id": 9,
       "firstName": "Teddy",
       "lastName": "Flood",
-      "active": false,
+      "active": true,
       "imageUrl": "https://vignette.wikia.nocookie.net/westworld/images/a/a9/Teddy_Flood_Phase_Space.jpg/revision/latest/scale-to-width-down/310?cb=20180526115338",
       "gender": "Male",
-      "area": "python_pass",
+      "area": "lowlands",
       "authorized": false
     },
     {
@@ -137,7 +137,7 @@
       "active": true,
       "imageUrl": "https://vignette.wikia.nocookie.net/westworld/images/f/fe/203_Rebus.png/revision/latest/scale-to-width-down/310?cb=20180607104216",
       "gender": "Male",
-      "area": "python_pass",
+      "area": "lowlands",
       "authorized": false
     },
     {
